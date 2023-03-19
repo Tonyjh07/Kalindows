@@ -18,4 +18,5 @@ https://github.com/Tonyjh07/Kalindows/releases
 
 # 作者的话
 作者是高中牲，由于学业原因该项目可能进展缓慢，敬请谅解。
-由于Metasploit-framework，在下载前请关闭杀毒软件。
+
+由于Metasploit-framework的存在，在下载前请关闭杀毒软件。

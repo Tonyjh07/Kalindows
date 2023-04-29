@@ -1,0 +1,1 @@
+start %kalindows%\nmap\zenmap.exe

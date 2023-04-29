@@ -1,0 +1,1 @@
+if "%cd%"=="%bin%" (%kalindows%\ls\ls.exe ..\bin) else (%kalindows%\ls\ls.exe %*)

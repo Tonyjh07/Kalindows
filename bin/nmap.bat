@@ -1,0 +1,1 @@
+%kalindows%\nmap\nmap.exe %*
